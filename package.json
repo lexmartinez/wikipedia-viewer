@@ -17,7 +17,8 @@
     "viewer",
     "freecodecamp",
     "wikipedia",
-    "100daysofcode"
+    "100daysofcode",
+    "search-interface"
   ],
   "dependencies": {
     "react": "^16.2.0",
