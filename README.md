@@ -1,8 +1,6 @@
 # wikipedia-viewer
 
-:microscope: Wikipedia Viewer written in React - #FreeCodeCamp Projects - [#FreeCodeCamp Project](https://github.com/lexmartinez/wikipedia-viewer/blob/master/CHALLENGE.md) : [#100DaysOfCode](http://100daysofcode.com/)
-
-> Day 4 of #100DaysOfCode Challenge
+:microscope: Wikipedia Viewer written in React - #FreeCodeCamp Projects - [#FreeCodeCamp Project](https://github.com/lexmartinez/wikipedia-viewer/blob/master/CHALLENGE.md)
 
 ## Build Setup
 
